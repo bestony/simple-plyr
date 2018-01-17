@@ -1,6 +1,6 @@
 === Simple Plyr ===
 Contributors: bestony
-Tags: video
+Tags: player
 Requires at least: 4.6.0
 Tested up to: 4.9.1
 Requires PHP: 5.5
