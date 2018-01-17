@@ -14,9 +14,14 @@ A Simple Plyr Video Player Plugin, You can use shortcode [plyr] to add a video.
 
 Now, Support paramter url and poster
 
+== Screenshots ==
+
+1. Enter the WordPress Editor and input the short code to add Plyr Player.
+2. Or You can use the text editor to quick add the shortcode.
+
 == Installation ==
 1. Download The Plugin
-2. Upload the Plugin 
+2. Upload the Plugin
 3. Active the plugin
 
 == Changelog ==
